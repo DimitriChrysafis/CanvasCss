@@ -12,5 +12,5 @@ A basic CSS edit for canvas!
 5. Pick a name and paste the code given in [canvas.css](https://www.quora.com)
 ![image](https://media.discordapp.net/attachments/895031873468768308/907764415514955836/Screen_Shot_2021-11-09_at_2.51.22_PM.png?width=2520&height=1546)
 6. Click Overwrite Style. Then click Save
-!image[https://media.discordapp.net/attachments/895031873468768308/907764767974912102/Screen_Shot_2021-11-09_at_2.52.52_PM.png?width=2568&height=1546]
+![image](https://media.discordapp.net/attachments/895031873468768308/907764767974912102/Screen_Shot_2021-11-09_at_2.52.52_PM.png?)
 7. Go to https://spcs.instructure.com/profile and enjoy the css. You can also change images to your liking.
