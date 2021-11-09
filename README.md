@@ -1,5 +1,7 @@
 # CanvasCss
 A basic CSS edit for canvas!
+How it looks:
+![image](https://media.discordapp.net/attachments/895031873468768308/907765771701219358/Screen_Shot_2021-11-09_at_2.56.57_PM.png?width=2546&height=1546)
 
 # How to install?
 1. Get this chrome extention: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
